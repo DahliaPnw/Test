@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("woahwoahwoah!")
             Text("listen to static by flavor foley if ur cool")
+            UITextView(Change3)
+            
         }
         .padding()
     }
